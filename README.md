@@ -15,4 +15,4 @@ This script is fully executor-ready and designed for use with tools like Xeno, F
 ### 📜 How to Use
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/your-username/VortexHub/main/vortex.lua"))()
+loadstring(game:HttpGet("(https://raw.githubusercontent.com/Vortex-dev1/vortex-hub/refs/heads/main/vortex-hub.lua)"))()
